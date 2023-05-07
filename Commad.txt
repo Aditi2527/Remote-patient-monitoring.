@@ -1,0 +1,11 @@
+commands 
+
+Convert to py file
+
+--> pyuic5 -x Fmain.ui -o main.py
+
+Convert to bc or baground file
+
+--> pyrcc5 resource.qrc -o resource_rc.py
+
+Dataset  link :- https://rb.gy/to9qcu
